@@ -5,4 +5,4 @@
 
 # 问题
 
-[小物体检测]()
+[小物体检测](https://github.com/shellhue/brainstorm4ai/blob/master/small_object_detection.md)
